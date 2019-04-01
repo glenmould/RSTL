@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/glenmould/Documents/GitHub/RSTL/venvRSTL"
+VIRTUAL_ENV="/Users/dozzlee/Documents/GitHub/RSTL/venvRSTL"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
